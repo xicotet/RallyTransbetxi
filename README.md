@@ -84,17 +84,30 @@ Under construction 🚧
 
 ## 📸 Screenshots
 
-| ![Home Screen](images/Home.jpg) | ![Settings BottomSheet](images/Ajustes.jpg) |
-|:------------------------------------:|:-----------------------------:|
-| **Home Screen** | **Settings** |
+### Home & News
+| ![Home Light Theme](images/home-light.png) | ![Home Dark Theme](images/home-dark.png) | ![News Section](images/news-section.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Home Screen (Light)** | **Home Screen (Dark)** | **News Feed** |
 
-| ![Home News](images/Home_Noticias.jpg) | ![Stages](images/Tramos.jpg) |
-|:------------------------------------:|:-----------------------------:|
-| **Home Screen with news section** | **Stages screen** |
+### Teams & Results
+| ![Teams List](images/teams-list.png) | ![Team Details](images/team-detail.png) | ![Team Details Extended](images/team-detail-more.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Teams List** | **Team Details** | **Extended Team Info** |
 
-| ![Stage detail](images/Tramos_Detalle.jpg) | ![Results](images/Resultados.jpg) |
-|:------------------------------------:|:-----------------------------:|
-| **Stage detail screen** | **Results screen** |
+### Stages & Maps
+| ![Stages List](images/stages-list.png) | ![Stage Map Android](images/stage-map-android.png) | ![Stage Map iOS](images/stage-map-ios.PNG) |
+|:-------------------:|:------------------:|:------------------:|
+| **Stages List** | **Stage Map (Android)** | **Stage Map (iOS)** |
+
+### Activities & Settings
+| ![Activities Section](images/activities-section.png) | ![Settings Dark](images/settings-dark.png) | ![Results List](images/results-list.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Activities** | **Settings (Dark)** | **Results List** |
+
+### Results & Sponsors
+| ![Results Filtered](images/results-filtered.png) | ![Restaurants](images/restaurants.png) | ![Sponsors](images/sponsors.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Filtered Results** | **Local Restaurants** | **Sponsors** |
 
 ## 📲 Installation
 
