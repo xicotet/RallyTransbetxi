@@ -1,15 +1,16 @@
 # Rally Transbetxí App 🏁
 
 ## 📋 Table of Contents
-- [Project Overview 🚀](#project-overview)
-- [Repository Status ℹ️](#repository-status)
-- [Technologies Used 💻](#technologies-used)
-- [About the Rally 🏎️](#about-the-rally)
-- [Current App State 🚧](#current-app-state)
-- [Screenshots 📸](#screenshots)
-- [Installation 📲](#installation)
-- [License 📄](#license)
-- [Contact 📬](#contact)
+- [Project Overview](#project-overview-)
+- [Repository Status](#repository-status-%E2%84%B9%EF%B8%8F)
+- [Technologies Used](#technologies-used-)
+- [About the Rally](#about-the-rally-%F0%9F%8F%8E%EF%B8%8F)
+- [Current App State](#current-app-state-)
+- [Screenshots](#screenshots-)
+- [Installation](#installation-)
+- [License](#license-)
+- [Contact](#contact-)
+  
 
 ## 🚀 Project Overview
 
@@ -84,30 +85,35 @@ Under construction 🚧
 
 ## 📸 Screenshots
 
-### Home & News
-| ![Home Light Theme](images/home-light.png) | ![Home Dark Theme](images/home-dark.png) | ![News Section](images/news-section.png) |
+### Home & Settings
+| ![Home Light Theme](images/home-light.png) | ![Home Dark Theme](images/home-dark.png) | ![Settings Dark](images/settings-dark.png) |
 |:-------------------:|:------------------:|:------------------:|
-| **Home Screen (Light)** | **Home Screen (Dark)** | **News Feed** |
+| **Home Screen (Light)** | **Home Screen (Dark)** | **Settings (Dark)** |
 
-### Teams & Results
-| ![Teams List](images/teams-list.png) | ![Team Details](images/team-detail.png) | ![Team Details Extended](images/team-detail-more.png) |
+### News & Activities
+| ![News Section](images/news-section.png) | ![News Detail](images/news-detail.png) | ![Activities Section](images/activities-section.png) |
 |:-------------------:|:------------------:|:------------------:|
-| **Teams List** | **Team Details** | **Extended Team Info** |
+| **News Feed** | **News Detail** | **Activities** |
 
 ### Stages & Maps
 | ![Stages List](images/stages-list.png) | ![Stage Map Android](images/stage-map-android.png) | ![Stage Map iOS](images/stage-map-ios.PNG) |
 |:-------------------:|:------------------:|:------------------:|
-| **Stages List** | **Stage Map (Android)** | **Stage Map (iOS)** |
+| **Stages List** | **Stage Map (Android)** | **Stage Map (iOS) with navigation enabled** |
 
-### Activities & Settings
-| ![Activities Section](images/activities-section.png) | ![Settings Dark](images/settings-dark.png) | ![Results List](images/results-list.png) |
+### Results
+| ![Results List](images/results-list.png) | ![Results Filtered](images/results-filtered.png) | ![Results Bottom Sheet](images/results-bottom-sheet.png) |
 |:-------------------:|:------------------:|:------------------:|
-| **Activities** | **Settings (Dark)** | **Results List** |
+| **Results List** | **Filtered Results** | **Stage Results Bottom Sheet** |
 
-### Results & Sponsors
-| ![Results Filtered](images/results-filtered.png) | ![Restaurants](images/restaurants.png) | ![Sponsors](images/sponsors.png) |
+### Teams
+| ![Teams List](images/teams-list.png) | ![Team Details](images/team-detail.png) | ![Team Details Extended](images/team-detail-more.png) |
 |:-------------------:|:------------------:|:------------------:|
-| **Filtered Results** | **Local Restaurants** | **Sponsors** |
+| **Teams List** | **Team Details** | **Extended Team Info** |
+
+### Information
+| ![Restaurants](images/restaurants.png) | ![Sponsors](images/sponsors.png) | ![Hall of Fame](images/hall-of-fame.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Local Restaurants** | **Sponsors** | **Hall of Fame** |
 
 ## 📲 Installation
 
@@ -129,7 +135,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📬 Contact
 
 For more information about the app or the rally, feel free to contact:  
+
 Email: contact@pablocano.org ✉️  
-LinkedIn: [Pablo Cano Franch](https://www.linkedin.com/in/canolabs) 💼
+
+LinkedIn: [Pablo Cano (CanoLabs)](https://www.linkedin.com/in/canolabs) 💼
+
 GitHub: [@xicotet](https://github.com/Xicotet) 👨‍💻  
 
