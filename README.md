@@ -1,15 +1,15 @@
 # Rally Transbetxí App 🏁
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Repository Status](#repository-status)
-- [Technologies Used](#technologies-used)
-- [About the Rally](#about-the-rally)
-- [Current App State](#current-app-state)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [License](#license)
-- [Contact](#contact)
+- [Project Overview 🚀](#project-overview)
+- [Repository Status ℹ️](#repository-status)
+- [Technologies Used 💻](#technologies-used)
+- [About the Rally 🏎️](#about-the-rally)
+- [Current App State 🚧](#current-app-state)
+- [Screenshots 📸](#screenshots)
+- [Installation 📲](#installation)
+- [License 📄](#license)
+- [Contact 📬](#contact)
 
 ## 🚀 Project Overview
 
@@ -31,15 +31,15 @@ This project leverages cutting-edge mobile development technologies to provide a
   - UI layer (common components)
 
 ### 📱 User Interface
-- **Compose Multiplatform** - UI toolkit that extends Jetpack Compose to iOS, enabling shared UI components
-- **Material Design 3** - Design system providing consistent theming throughout the app
+- **[Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/)** - UI toolkit that extends Jetpack Compose to iOS, enabling shared UI components
+- **[Material Design 3](https://m3.material.io/)** - Design system providing consistent theming throughout the app
 - **Platform-specific implementations**:
   - Custom SwiftUI screens for iOS map functionality
   - Native API integrations for location services on both platforms
 
 ### 🗺️ Mapping & Location Services
-- **Google Maps API** - For Android stage mapping and navigation
-- **Apple Maps** - Custom native implementation for iOS stage mapping
+- **[Google Maps API](https://github.com/googlemaps)** - For Android stage mapping and navigation
+- **[Apple Maps](https://developer.apple.com/maps/)** - Custom native implementation for iOS stage mapping through MapKit
 - **Platform-specific location APIs** - For determining user position and providing directions to stage starting points
 
 ### 🔥 Backend & Data
@@ -49,7 +49,7 @@ This project leverages cutting-edge mobile development technologies to provide a
   - Cloud Messaging for push notifications and real-time race updates
   - Crashlytics for crash reporting and performance monitoring
   - Security Rules with Google Play and Firebase App Check integration for data protection
-- **[GitLive Firebase]([https://kotlinlang.org/docs/multiplatform.html](https://github.com/GitLiveApp/firebase-kotlin-sdk))** - Kotlin-first Firebase libraries for cross-platform implementation (as official KMP Firebase support from Google remains undone as of 2025)
+- **[GitLive Firebase](https://github.com/GitLiveApp/firebase-kotlin-sdk)** - Kotlin-first Firebase libraries for cross-platform implementation (as official KMP Firebase support from Google remains undone as of 2025)
 
 ### 🏗️ Architecture & Utilities
 - **Clean Architecture** - For maintainable separation of concerns
@@ -98,12 +98,16 @@ Under construction 🚧
 
 ## 📲 Installation
 
-While the application will not be publicly available for the 2025 rally, a private beta testing program is in place. If you're interested in participating:
+The application isn't publicly available for the 2025 rally, but I offer several ways to experience the project:
 
-- **Google Play Beta** 🤖: I can provide direct access through Google Play's testing program with just a valid email address (no APK download required)
-- **iOS TestFlight** 🍎: Limited spots available for iOS testing
+- **Just Want to See the App?** 👀 I can provide a guided demo or screen sharing session to showcase the functionality
 
-Contact me directly via the information in the Contact section if you'd like to participate in the beta testing program.
+- **Try it on Your Device**:
+  - **Google Play** 🤖: I can provide access to install the app directly on your everyday Android phone by simply sharing your email address
+  - **iOS** 🍎: Limited spots available to install on your iPhone through TestFlight
+
+Contact me using the information below to arrange any of these options. The app can be installed and removed like any regular application without affecting your device.
+
 
 ## 📄 License
 
@@ -112,5 +116,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📬 Contact
 
 For more information about the app or the rally, feel free to contact:  
-GitHub: [@xicotet](https://github.com/Xicotet) 👨‍💻  
+Email: contact@pablocano.org ✉️  
 LinkedIn: [Pablo Cano Franch](https://www.linkedin.com/in/canolabs) 💼
+GitHub: [@xicotet](https://github.com/Xicotet) 👨‍💻  
+
