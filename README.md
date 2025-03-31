@@ -1,15 +1,15 @@
 # Rally Transbetxí App 🏁
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Repository Status](#repository-status)
-- [Technologies Used](#technologies-used)
-- [About the Rally](#about-the-rally)
-- [Current App State](#current-app-state)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [License](#license)
-- [Contact](#contact)
+- [Project Overview 🚀](#project-overview)
+- [Repository Status ℹ️](#repository-status)
+- [Technologies Used 💻](#technologies-used)
+- [About the Rally 🏎️](#about-the-rally)
+- [Current App State 🚧](#current-app-state)
+- [Screenshots 📸](#screenshots)
+- [Installation 📲](#installation)
+- [License 📄](#license)
+- [Contact 📬](#contact)
 
 <a id="project-overview"></a>
 ## 🚀 Project Overview
