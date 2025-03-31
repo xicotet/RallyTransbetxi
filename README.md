@@ -1,25 +1,27 @@
 # Rally Transbetxí App 🏁
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview-)
-- [Repository Status](#repository-status-%E2%84%B9%EF%B8%8F)
-- [Technologies Used](#technologies-used-)
-- [About the Rally](#about-the-rally-%F0%9F%8F%8E%EF%B8%8F)
-- [Current App State](#current-app-state-)
-- [Screenshots](#screenshots-)
-- [Installation](#installation-)
-- [License](#license-)
-- [Contact](#contact-)
-  
+- [Project Overview](#project-overview)
+- [Repository Status](#repository-status)
+- [Technologies Used](#technologies-used)
+- [About the Rally](#about-the-rally)
+- [Current App State](#current-app-state)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
 
+<a id="project-overview"></a>
 ## 🚀 Project Overview
 
 This repository contains information about the Rally Transbetxí App, a mobile application both for iOS & Android designed to bring real-time updates and results to spectators of the traditional Transbetxí Rally. The app allows fans to follow the race progress, view stage times, and stay updated with the latest news about the event.
 
+<a id="repository-status"></a>
 ## ℹ️ Repository Status
 
 **Important Note:** This repository serves as an informational showcase only and does not contain the application's source code. The code remains private as the project is being developed for eventual transfer to the Rally Transbetxí organization, which prefers to maintain the codebase as proprietary software. This documentation is provided to demonstrate the technical concepts and approaches used in the development process.
 
+<a id="technologies-used"></a>
 ## 💻 Technologies Used
 
 This project leverages cutting-edge mobile development technologies to provide a seamless cross-platform experience while maintaining native performance. The technical stack includes:
@@ -62,6 +64,7 @@ This project leverages cutting-edge mobile development technologies to provide a
 - **DataStore** - For preferences and small data storage
 - **Compose Navigation** - For routing within the Android application
 
+<a id="about-the-rally"></a>
 ## 🏎️ About the Rally
 
 Just like every year since 1988, the [Rally Transbetxí](https://www.transbetxi.com/) returns to Betxí, Castellón (Spain), featuring a **unique motorsport event** – the motocultor rally. A motocultor is a small agricultural machine with no more than 10 horsepower. While its power might not be impressive, things change when we swap the original engine for a modified 250cc Bultaco engine, producing around 40 horsepower and reaching speeds of up to 100 kilometers per hour. Quite a transformation, right? 🏎️💨
@@ -78,11 +81,12 @@ This well-established competition revolves around this concept, and this year it
 📍 **Betxí, Castellón (Spain)**  
 🌐 [https://www.transbetxi.com/](https://www.transbetxi.com/)
 
+<a id="current-app-state"></a>
 ## 🚧 Current App State
 
-Under construction 🚧  
 *The application is currently in active development with a private testing phase underway. Due to the timeline of discussions with the rally organization, the app will not be publicly available for the 2025 edition. We are targeting a full public release for the 2026 event, with limited testing for this year's rally.*
 
+<a id="screenshots"></a>
 ## 📸 Screenshots
 
 ### Home & Settings
@@ -115,7 +119,9 @@ Under construction 🚧
 |:-------------------:|:------------------:|:------------------:|
 | **Local Restaurants** | **Sponsors** | **Hall of Fame** |
 
+<a id="installation"></a>
 ## 📲 Installation
+
 
 The application isn't publicly available for the 2025 rally, but I offer several ways to experience the project:
 
@@ -128,10 +134,12 @@ The application isn't publicly available for the 2025 rally, but I offer several
 Contact me using the information below to arrange any of these options. The app can be installed and removed like any regular application without affecting your device.
 
 
+<a id="license"></a>
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+<a id="contact"></a>
 ## 📬 Contact
 
 For more information about the app or the rally, feel free to contact:  
