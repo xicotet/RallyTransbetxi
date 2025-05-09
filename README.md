@@ -6,10 +6,11 @@
 - [Technologies Used 💻](#technologies-used)
 - [Current App State 🚧](#current-app-state)
 - [Repository Status ℹ️](#repository-status)
-- [Screenshots 📸](#screenshots)
+- [App Store Screenshots 📸](#app-store-preview)
 - [Installation 📲](#installation)
 - [License 📄](#license)
 - [Contact 📬](#contact)
+- [Regular Screenshots 📸](#screenshots)
 
 <a id="project-overview"></a>
 ## 🚀 Project Overview
@@ -86,38 +87,23 @@ This project leverages cutting-edge mobile development technologies to provide a
 
 **Important Note:** This repository serves as an informational showcase only and does not contain the application's source code. The code remains private as the project is being developed for eventual transfer to the Rally Transbetxí organization, which prefers to maintain the codebase as proprietary software. This documentation is provided to demonstrate the technical concepts and approaches used in the development process.
 
-<a id="screenshots"></a>
-## 📸 Screenshots
+<a id="app-store-preview"></a>
+## 🛍️ App Store Preview
 
-### Home & Settings
-| ![Home Light Theme](images/home-light.png) | ![Home Dark Theme](images/home-dark.png) | ![Settings Dark](images/settings-dark.png) |
-|:-------------------:|:------------------:|:------------------:|
-| **Home Screen (Light)** | **Home Screen (Dark)** | **Settings (Dark)** |
+Below are some promotional screenshots featured in the Play Store / App Store listing for the Rally Transbetxí App, showcasing the clean UI and live rally tracking features designed for fans and participants alike.
 
-### News & Activities
-| ![News Section](images/news-section.png) | ![News Detail](images/news-detail.png) | ![Activities Section](images/activities-section.png) |
-|:-------------------:|:------------------:|:------------------:|
-| **News Feed** | **News Detail** | **Activities** |
+<p align="center">
+  <img src="images/appstore1.png" width="250" />
+  <img src="images/appstore2.png" width="250" />
+  <img src="images/appstore3.png" width="250" />
+  <img src="images/appstore4.png" width="250" />
+  <img src="images/appstore5.png" width="250" />
+  <img src="images/appstore6.png" width="250" />
+  <img src="images/appstore7.png" width="250" />
+  <img src="images/appstore8.png" width="250" />
+  <img src="images/appstore9.png" width="250" />
+</p>
 
-### Stages & Maps
-| ![Stages List](images/stages-list.png) | ![Stage Map Android](images/stage-map-android.png) | ![Stage Map iOS](images/stage-map-ios.PNG) |
-|:-------------------:|:------------------:|:------------------:|
-| **Stages List** | **Stage Map (Android)** | **Stage Map (iOS) with navigation enabled** |
-
-### Results
-| ![Results List](images/results-list.png) | ![Results Filtered](images/results-filtered.png) | ![Results Bottom Sheet](images/results-bottom-sheet.png) |
-|:-------------------:|:------------------:|:------------------:|
-| **Results List** | **Filtered Results** | **Stage Results Bottom Sheet** |
-
-### Teams
-| ![Teams List](images/teams-list.png) | ![Team Details](images/team-detail.png) | ![Team Details Extended](images/team-detail-more.png) |
-|:-------------------:|:------------------:|:------------------:|
-| **Teams List** | **Team Details** | **Extended Team Info** |
-
-### Information
-| ![Restaurants](images/restaurants.png) | ![Sponsors](images/sponsors.png) | ![Hall of Fame](images/hall-of-fame.png) |
-|:-------------------:|:------------------:|:------------------:|
-| **Local Restaurants** | **Sponsors** | **Hall of Fame** |
 
 <a id="installation"></a>
 ## 📲 Installation
@@ -150,19 +136,35 @@ LinkedIn: [Pablo Cano (CanoLabs)](https://www.linkedin.com/in/canolabs) 💼
 
 GitHub: [@xicotet](https://github.com/Xicotet) 👨‍💻  
 
-<a id="play-store-preview"></a>
-## 🛍️ Play Store Preview
+<a id="screenshots"></a>
+## 📸 Regular Screenshots
 
-Below are some promotional screenshots featured in the Play Store listing for the Rally Transbetxí App, showcasing the clean UI and live rally tracking features designed for fans and participants alike.
+### Home & Settings
+| ![Home Light Theme](images/home-light.png) | ![Home Dark Theme](images/home-dark.png) | ![Settings Dark](images/settings-dark.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Home Screen (Light)** | **Home Screen (Dark)** | **Settings (Dark)** |
 
-<p align="center">
-  <img src="images/promo1.png" width="250" />
-  <img src="images/promo2.png" width="250" />
-  <img src="images/promo3.png" width="250" />
-  <img src="images/promo4.png" width="250" />
-  <img src="images/promo5.png" width="250" />
-  <img src="images/promo6.png" width="250" />
-  <img src="images/promo7.png" width="250" />
-  <img src="images/promo8.png" width="250" />
-  <img src="images/promo9.png" width="250" />
-</p>
+### News & Activities
+| ![News Section](images/news-section.png) | ![News Detail](images/news-detail.png) | ![Activities Section](images/activities-section.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **News Feed** | **News Detail** | **Activities** |
+
+### Stages & Maps
+| ![Stages List](images/stages-list.png) | ![Stage Map Android](images/stage-map-android.png) | ![Stage Map iOS](images/stage-map-ios.PNG) |
+|:-------------------:|:------------------:|:------------------:|
+| **Stages List** | **Stage Map (Android)** | **Stage Map (iOS) with navigation enabled** |
+
+### Results
+| ![Results List](images/results-list.png) | ![Results Filtered](images/results-filtered.png) | ![Results Bottom Sheet](images/results-bottom-sheet.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Results List** | **Filtered Results** | **Stage Results Bottom Sheet** |
+
+### Teams
+| ![Teams List](images/teams-list.png) | ![Team Details](images/team-detail.png) | ![Team Details Extended](images/team-detail-more.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Teams List** | **Team Details** | **Extended Team Info** |
+
+### Information
+| ![Restaurants](images/restaurants.png) | ![Sponsors](images/sponsors.png) | ![Hall of Fame](images/hall-of-fame.png) |
+|:-------------------:|:------------------:|:------------------:|
+| **Local Restaurants** | **Sponsors** | **Hall of Fame** |
