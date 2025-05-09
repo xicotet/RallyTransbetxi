@@ -93,15 +93,15 @@ This project leverages cutting-edge mobile development technologies to provide a
 Below are some promotional screenshots featured in the Play Store / App Store listing for the Rally Transbetxí App, showcasing the clean UI and live rally tracking features designed for fans and participants alike.
 
 <p align="center">
-  <img src="images/appstore1.png" width="250" />
-  <img src="images/appstore2.png" width="250" />
-  <img src="images/appstore3.png" width="250" />
-  <img src="images/appstore4.png" width="250" />
-  <img src="images/appstore5.png" width="250" />
-  <img src="images/appstore6.png" width="250" />
-  <img src="images/appstore7.png" width="250" />
-  <img src="images/appstore8.png" width="250" />
-  <img src="images/appstore9.png" width="250" />
+  <img src="images/01.png" width="250" />
+  <img src="images/02.png" width="250" />
+  <img src="images/03.png" width="250" />
+  <img src="images/04.png" width="250" />
+  <img src="images/05.png" width="250" />
+  <img src="images/06.png" width="250" />
+  <img src="images/07.png" width="250" />
+  <img src="images/08.png" width="250" />
+  <img src="images/09.png" width="250" />
 </p>
 
 
