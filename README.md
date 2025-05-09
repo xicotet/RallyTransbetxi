@@ -150,3 +150,16 @@ LinkedIn: [Pablo Cano (CanoLabs)](https://www.linkedin.com/in/canolabs) 💼
 
 GitHub: [@xicotet](https://github.com/Xicotet) 👨‍💻  
 
+<a id="play-store-preview"></a>
+## 🛍️ Play Store Preview
+
+Below are some promotional screenshots featured in the Play Store listing for the Rally Transbetxí App, showcasing the clean UI and live rally tracking features designed for fans and participants alike.
+
+| ![Promo 1](images/playstore/promo1.png) | ![Promo 2](images/playstore/promo2.png) | ![Promo 3](images/playstore/promo3.png) |
+|:------------------:|:------------------:|:------------------:|
+| **Follow real-time results** | **Explore interactive maps** | **Stay up to date with news** |
+
+| ![Promo 4](images/playstore/promo4.png) | ![Promo 5](images/playstore/promo5.png) |
+|:------------------:|:------------------:|
+| **Discover all teams** | **All rally info in your pocket** |
+
