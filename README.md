@@ -6,7 +6,7 @@
 - [Technologies Used 💻](#technologies-used)
 - [Current App State 🚧](#current-app-state)
 - [Repository Status ℹ️](#repository-status)
-- [App Store Screenshots 📸](#app-store-preview)
+- [App Store Preview 🛍️](#app-store-preview)
 - [Installation 📲](#installation)
 - [License 📄](#license)
 - [Contact 📬](#contact)
