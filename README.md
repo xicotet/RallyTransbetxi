@@ -3,11 +3,11 @@
 ## 📋 Table of Contents
 - [Project Overview 🚀](#project-overview)
 - [About the Rally 🏎️](#about-the-rally)
-- [Technologies Used 💻](#technologies-used)
-- [Current App State 🚧](#current-app-state)
-- [Repository Status ℹ️](#repository-status)
 - [App Store Preview 🛍️](#app-store-preview)
+- [Current App State 🚧](#current-app-state)
 - [Installation 📲](#installation)
+- [Technologies Used 💻](#technologies-used)
+- [Repository Status ℹ️](#repository-status)
 - [License 📄](#license)
 - [Contact 📬](#contact)
 - [Regular Screenshots 📸](#screenshots)
@@ -33,6 +33,44 @@ This well-established competition revolves around this concept, and this year it
 📆 **Saturday, April 26, 2025**, until **Sunday, April 27, 2025**.  
 📍 **Betxí, Castellón (Spain)**  
 🌐 [https://www.transbetxi.com/](https://www.transbetxi.com/)
+
+
+<a id="app-store-preview"></a>
+## 🛍️ App Store Preview
+
+Below are some promotional screenshots featured in the Play Store / App Store listing for the Rally Transbetxí App, showcasing the clean UI and live rally tracking features designed for fans and participants alike.
+
+<p align="center">
+  <img src="images/01.png" width="250" />
+  <img src="images/02.png" width="250" />
+  <img src="images/03.png" width="250" />
+  <img src="images/04.png" width="250" />
+  <img src="images/05.png" width="250" />
+  <img src="images/06.png" width="250" />
+  <img src="images/07.png" width="250" />
+  <img src="images/08.png" width="250" />
+  <img src="images/09.png" width="250" />
+</p>
+
+
+<a id="current-app-state"></a>
+## 🚧 Current App State
+
+*The application is currently in active development with a private testing phase underway. Due to the timeline of discussions with the rally organization, the app will not be publicly available for the 2025 edition. We are targeting a full public release for the 2026 event, with limited testing for this year's rally.*
+
+<a id="installation"></a>
+## 📲 Installation
+
+
+The application isn't publicly available for the 2025 rally, but I offer several ways to experience the project:
+
+- **Just Want to See the App?** 👀 I can provide a guided demo or screen sharing session to showcase the functionality
+
+- **Try it on Your Device**:
+  - **Google Play** 🤖: I can provide access to install the app directly from **Play Store** into your everyday Android phone 
+  - **iOS** 🍎: Limited spots available to install on your iPhone through **TestFlight**
+
+Contact me using the information below to arrange any of these options. The app can be installed and removed like any regular application without affecting your device.
 
 <a id="technologies-used"></a>
 ## 💻 Technologies Used
@@ -77,48 +115,10 @@ This project leverages cutting-edge mobile development technologies to provide a
 - **DataStore** - For preferences and small data storage
 - **Compose Navigation** - For routing within the Android application
 
-<a id="current-app-state"></a>
-## 🚧 Current App State
-
-*The application is currently in active development with a private testing phase underway. Due to the timeline of discussions with the rally organization, the app will not be publicly available for the 2025 edition. We are targeting a full public release for the 2026 event, with limited testing for this year's rally.*
-
 <a id="repository-status"></a>
 ## ℹ️ Repository Status
 
 **Important Note:** This repository serves as an informational showcase only and does not contain the application's source code. The code remains private as the project is being developed for eventual transfer to the Rally Transbetxí organization, which prefers to maintain the codebase as proprietary software. This documentation is provided to demonstrate the technical concepts and approaches used in the development process.
-
-<a id="app-store-preview"></a>
-## 🛍️ App Store Preview
-
-Below are some promotional screenshots featured in the Play Store / App Store listing for the Rally Transbetxí App, showcasing the clean UI and live rally tracking features designed for fans and participants alike.
-
-<p align="center">
-  <img src="images/01.png" width="250" />
-  <img src="images/02.png" width="250" />
-  <img src="images/03.png" width="250" />
-  <img src="images/04.png" width="250" />
-  <img src="images/05.png" width="250" />
-  <img src="images/06.png" width="250" />
-  <img src="images/07.png" width="250" />
-  <img src="images/08.png" width="250" />
-  <img src="images/09.png" width="250" />
-</p>
-
-
-<a id="installation"></a>
-## 📲 Installation
-
-
-The application isn't publicly available for the 2025 rally, but I offer several ways to experience the project:
-
-- **Just Want to See the App?** 👀 I can provide a guided demo or screen sharing session to showcase the functionality
-
-- **Try it on Your Device**:
-  - **Google Play** 🤖: I can provide access to install the app directly from **Play Store** into your everyday Android phone 
-  - **iOS** 🍎: Limited spots available to install on your iPhone through **TestFlight**
-
-Contact me using the information below to arrange any of these options. The app can be installed and removed like any regular application without affecting your device.
-
 
 <a id="license"></a>
 ## 📄 License
