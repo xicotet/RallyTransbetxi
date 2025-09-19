@@ -24,8 +24,8 @@ Just like every year since 1988, the [Rally Transbetxí](https://www.transbetxi.
 
 With the increased power comes the need for improved brakes, suspensions, and tires. Even so, motocultores remain somewhat unstable, leading to the formation of two-member teams: a rider and a co-pilot who acts as a counterbalance during turns, much like a sidecar passenger.
 
-![Motocultor Vehicle](images/Motoret.jpg)  
-*Photo credits: [Alejandro Tinieblas](https://www.alejandromilart.com/motorets-transbetxi-2018/)*
+![Motocultor Vehicle](images/Motoret.jpg)
+*Photo credits: [Alejandro Milart](https://www.alejandromilart.com/)*
 
 This well-established competition revolves around this concept, and this year it introduces an exciting addition: our mobile application that allows spectators to follow live timing results and get real-time updates on the race progress. Now you can stay connected with all the action happening on the track, witnessing the motocultores incredible speed and skill firsthand.
 
