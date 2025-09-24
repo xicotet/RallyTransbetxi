@@ -87,9 +87,6 @@ This project leverages cutting-edge mobile development technologies to provide a
 ### 📱 User Interface
 - **[Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/)** - UI toolkit that extends Jetpack Compose to iOS, enabling shared UI components
 - **[Material Design 3](https://m3.material.io/)** - Design system providing consistent theming throughout the app
-- **Platform-specific implementations**:
-  - Custom SwiftUI screens for iOS map functionality
-  - Native API integrations for location services on both platforms
 
 ### 🗺️ Mapping & Location Services
 - **[Google Maps API](https://github.com/googlemaps)** - For Android stage mapping and navigation
